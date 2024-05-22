@@ -10,4 +10,4 @@ ChatGPT e D-ID.
 Utilizei o "ChatGPT" para desenvolver o roteiro deste conteúdo, ele me auxiliou na elaboração de uma narrativa resumida e fiel ao que foi pedido. Em seguinda, o "D-ID" foi essencial para criar um avatar virtual e voz sintetizada.
 
 ## 🚀 Resultados
-Um vídeo de 01:30 segundos usando apenas IAs Generativas.
+Um vídeo de 01:30 segundos usando apenas IAs Generativas. Fiquei surpresa com o resultado, por ser uma versão gratuita dá pra notar o qual "fake natty" ficou, mas mesmo assim já ficou bem satisfatório, imagino que com as versões pagas deve ser bem mais incrível.
